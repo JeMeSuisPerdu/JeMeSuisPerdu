@@ -1,15 +1,25 @@
-<h1 align="center">👋 Salut, moi c’est Anis LAFRAD</h1>
-<h3 align="center">💻 Développeur curieux & passionné — Actuellement en L3 CDA à Brest</h3>
-
-<p align="center">
-  <a href="https://monportefolioanis.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visitez%20mon%20site-blue?style=flat-square&logo=google-chrome" alt="portfolio" />
-  </a>
-  <a href="mailto:anislafrad@gmail.com">
-    <img src="https://img.shields.io/badge/Contact-Email-red?style=flat-square&logo=gmail" alt="email" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=JeMeSuisPerdu&label=Vues%20du%20profil&color=0e75b6&style=flat-square" alt="vues du profil" />
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://imageprojetsanis.netlify.app/images/moi.png" alt="photo de Anis LAFRAD" width="160" style="border-radius: 50%; box-shadow: 0 0 10px rgba(0,0,0,0.2);"/>
+      </td>
+      <td align="center">
+        <h1>👋 Salut, moi c’est <span style="color:#0077ff;">Anis LAFRAD</span></h1>
+        <h3>💻 Développeur curieux & passionné — Actuellement en L3 CDA à Brest</h3>
+        <p>
+          <a href="https://monportefolioanis.netlify.app/" target="_blank">
+            <img src="https://img.shields.io/badge/Portfolio-Visitez%20mon%20site-blue?style=for-the-badge&logo=google-chrome" alt="portfolio" />
+          </a>
+          <a href="mailto:anislafrad@gmail.com">
+            <img src="https://img.shields.io/badge/Contact-Email-red?style=for-the-badge&logo=gmail" alt="email" />
+          </a>
+          <img src="https://komarev.com/ghpvc/?username=JeMeSuisPerdu&label=Vues%20du%20profil&color=0e75b6&style=for-the-badge" alt="vues du profil" />
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
@@ -27,7 +37,7 @@
 
 ### 🌐 Connecte-toi avec moi
 
-<p align="left">
+<p align="center">
   <a href="https://discord.gg/kisetaro" target="_blank">
     <img src="https://skillicons.dev/icons?i=discord" alt="discord" width="40" height="40"/>
   </a>
@@ -52,9 +62,12 @@
 ### 📊 Statistiques GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JeMeSuisPerdu&show_icons=true&theme=tokyonight" alt="stats github" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeMeSuisPerdu&layout=compact&theme=tokyonight" alt="langages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JeMeSuisPerdu&theme=tokyonight" alt="streak stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JeMeSuisPerdu&show_icons=true&theme=tokyonight&hide_border=true" alt="stats github" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeMeSuisPerdu&layout=compact&theme=tokyonight&hide_border=true" alt="langages" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JeMeSuisPerdu&theme=tokyonight&hide_border=true" alt="streak stats" />
 </p>
 
 ---
