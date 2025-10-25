@@ -25,9 +25,9 @@
 
 ### 🚀 À propos de moi
 
-- 🔭 Je travaille actuellement sur **[ERWANIS](https://github.com/JeMeSuisPerdu/ERWANIS)** — une plateforme d’aide aux personnes à mobilité réduite.  
+- 🔭 Je travaille actuellement sur **[Companion](https://github.com/JeMeSuisPerdu/ERWANIS)** — une plateforme d’aide aux personnes à mobilité réduite.  
 - 🌱 J’approfondis mes connaissances sur **Spring Boot** et **Android Studio**.  
-- 👯 Ouvert à la collaboration sur **ERWANIS** ou d’autres projets à impact social.  
+- 👯 Ouvert à la collaboration sur **Companion** ou d’autres projets à impact social.  
 - 👨‍💻 Tous mes projets sont visibles ici 👉 [**mon portfolio**](https://monportefolioanis.netlify.app/).  
 - 💬 Tu veux discuter de **Symfony**, **.NET**, ou **ReactJS** ? J’adore en parler.  
 - 📫 Contact : **anislafrad@gmail.com**  
